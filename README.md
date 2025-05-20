@@ -28,7 +28,7 @@ nockchain/
 
 ```bash
 # 克隆仓库（如果尚未克隆）
-git clone https://github.com/web3starrepository/nockchain.git
+git clone https://github.com/alongdlut/nockchain
 cd nockchain
 
 # 构建并启动容器
