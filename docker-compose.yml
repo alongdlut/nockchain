@@ -17,8 +17,8 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '6.0'
-          memory: 16G
+          cpus: '14.0'
+          memory: 64G
     # 允许指定命令参数，例如: docker-compose run nockchain genWallet
     entrypoint: ["/usr/local/bin/docker-entrypoint.sh"]
     command: genWallet
